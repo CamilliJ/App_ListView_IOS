@@ -13,6 +13,7 @@
 		DCFD269E284E3E77002C0A05 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DCFD269C284E3E77002C0A05 /* Main.storyboard */; };
 		DCFD26A0284E3E79002C0A05 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DCFD269F284E3E79002C0A05 /* Assets.xcassets */; };
 		DCFD26A3284E3E79002C0A05 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DCFD26A1284E3E79002C0A05 /* LaunchScreen.storyboard */; };
+		DCFD26B0284E4DCF002C0A05 /* ViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCFD26AF284E4DCF002C0A05 /* ViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		DCFD269F284E3E79002C0A05 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DCFD26A2284E3E79002C0A05 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DCFD26A4284E3E79002C0A05 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DCFD26AF284E4DCF002C0A05 /* ViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				DCFD2698284E3E77002C0A05 /* SceneDelegate.swift */,
 				DCFD269A284E3E77002C0A05 /* ViewController.swift */,
 				DCFD269C284E3E77002C0A05 /* Main.storyboard */,
+				DCFD26AF284E4DCF002C0A05 /* ViewCell.swift */,
 				DCFD269F284E3E79002C0A05 /* Assets.xcassets */,
 				DCFD26A1284E3E79002C0A05 /* LaunchScreen.storyboard */,
 				DCFD26A4284E3E79002C0A05 /* Info.plist */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DCFD26B0284E4DCF002C0A05 /* ViewCell.swift in Sources */,
 				DCFD269B284E3E77002C0A05 /* ViewController.swift in Sources */,
 				DCFD2697284E3E77002C0A05 /* AppDelegate.swift in Sources */,
 				DCFD2699284E3E77002C0A05 /* SceneDelegate.swift in Sources */,
